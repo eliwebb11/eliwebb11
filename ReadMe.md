@@ -1,5 +1,5 @@
 # 💫 About Me:
-Recent Computer Science graduate seeking a full-time software engineering role. Strong foundation in data structures, algorithms, and software design, with experience building practical, scalable applications.<br><br>Interested in solving problems through clean, efficient code and continuous learning. Open to full-time opportunities and eager to contribute to a collaborative engineering team.
+Computer Science graduate seeking a full-time software engineering role. Strong foundation in data structures, algorithms, and software design, with experience building practical, scalable applications.<br><br>Interested in solving problems through clean, efficient code and continuous learning. Open to full-time opportunities and eager to contribute to a collaborative engineering team.
 
 
 ## 🌐 Socials:
