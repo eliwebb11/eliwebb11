@@ -21,7 +21,8 @@ Computer Science graduate seeking a full-time software engineering role. Strong 
 ---
 
 ### AI / Machine Learning
-RAG Pipelines, MCP Servers, LlamaIndex, LLM APIs (Anthropic, OpenAI), NLP, Vector Databases, Embedding Models, Semantic Search, Reinforcement Learning
+RAG Pipelines, MCP Servers, LlamaIndex, LLM APIs (Anthropic, OpenAI), NLP, Vector Databases, Embedding Models, 
+Semantic Search, Reinforcement Learning
 ---
 
 ### Backend & Systems
