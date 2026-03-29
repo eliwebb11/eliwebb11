@@ -7,11 +7,6 @@ Computer Science graduate seeking a full-time software engineering role. Strong 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elibwebb123@gmail.com) 
 
 # Tech Stack
-Languages: Python, C, C++, C#, Java, JavaScript, TypeScript, SQL
-AI & Machine Learning: RAG Pipelines, MCP Servers, LlamaIndex, LLM APIs (Anthropic, OpenAI), NLP, Vector Databases, Embedding Models, Semantic Search, Reinforcement Learning
-Backend & Systems: FastAPI, REST APIs, React, Node.js, POSIX Threads, Concurrency Programming
-Databases: SQLite, MySQL, ChromaDB
-Tools: Git, GitHub, Docker, Linux, Windows, macOS
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
